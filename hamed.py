@@ -1,3 +1,3 @@
-import Rhino.Geometry as rg
+#import Rhino.Geometry as rg
 
 """Place for Hameds code"""
